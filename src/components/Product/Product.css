@@ -1,0 +1,30 @@
+.name-head{
+    color: #081839;
+    font-size: 24px;
+    font-weight: 700;
+    transition: 0.5s ease-in-out;
+}
+.name-head:hover{
+    color: #1BBDE4;
+    letter-spacing: 1px;
+}
+.short{
+    color: #666;
+    font-weight: 500;
+}
+.btn-slice{
+    border: 1px solid #1BBDE4;
+    color: #fff;
+    padding: 5px 25px;
+    font-size: 18px;
+    background: #1BBDE4;
+    margin-top: 10px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+.btn-slice:hover{
+    letter-spacing: 1px;
+    background-color: #081839;
+    color: #fff;
+    border:1px solid #081839;
+}

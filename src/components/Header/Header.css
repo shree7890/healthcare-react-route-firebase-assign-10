@@ -1,0 +1,55 @@
+.menu-bar{
+    margin-left: 60px;
+}
+.menu-bar a {
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+    transition: 0.5s ease;
+}
+.menu-bar a:hover{
+color:#1BBDE4 ;
+}
+.logo-image {
+    width: 150px;
+    
+}
+.logo-bg{
+    background-color: #071836;
+    padding:5px;
+    border-radius: 20px 5px 5px 5px;
+}
+.header-bg{
+    background-color: #EBEEF3;
+}
+.btn-common {
+    background-color: #1BBDE4;
+    color: #fff;
+    border: 1px solid #1BBDE4;
+    font-weight: 400;
+    padding: 10px 20px;
+    border-radius: 20px 5px 20px 5px;
+    transition: 0.5s ;
+}
+.btn-common:hover{
+    background-color: #081839;
+    border: 1px solid #081839;
+    color: #fff;
+    border-radius: 20px 5px 20px 5px;
+}
+.btn-sign-out{
+    background-color: #1BBDE4;
+    color: #fff;
+    border: 1px solid #1BBDE4;
+    font-weight: 400;
+    padding: 5px;
+    transition: 0.5s ;
+    border-radius: 5px;
+}
+.btn-sign-out:hover{
+    background-color: #081839;
+    border: 1px solid #081839;
+    color: #fff;
+}

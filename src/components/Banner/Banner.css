@@ -1,0 +1,17 @@
+.banner-slide{
+    margin-bottom: 70px;
+}
+.heading{
+    color: #1BBDE4;
+    font-size: 56px;
+    font-weight: 700;
+}
+.banner-slide h3{
+    color: #000;
+    font-weight: 500;
+}
+.banner-slide h6{
+    color: rgba(0, 0, 0, 0.733);
+    font-size: 20px;
+    font-weight: 500;
+}
